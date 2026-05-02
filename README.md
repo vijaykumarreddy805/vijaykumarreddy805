@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Vijay Kumar Reddy 👋</h1>
 
 <p align="center">
-  <b>AI & Full-Stack Developer</b> · Final Year CS Student · Building real-world systems with Python, FastAPI & React
+  <b>AI & Full-Stack Developer</b> · Final Year CSE Student · Building real-world systems with Python, FastAPI & React
 </p>
 
 <p align="center">
